@@ -26,3 +26,6 @@ Only accessible by managers
 
 3.Employee Management (CRUD)
 Update and delete only accessible by managers
+
+4.Filtering Endpoints
+Filter employees by location and name using API endpoints
